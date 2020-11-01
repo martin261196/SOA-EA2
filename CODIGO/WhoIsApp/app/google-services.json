@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "820136300489",
+    "firebase_url": "https://whoisapp-672d4.firebaseio.com",
+    "project_id": "whoisapp-672d4",
+    "storage_bucket": "whoisapp-672d4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:820136300489:android:6897cff7a59157ac1b6218",
+        "android_client_info": {
+          "package_name": "com.example.whoisapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "820136300489-cs305unmkpucb38m84gb1fhi6jg2qo52.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.whoisapp",
+            "certificate_hash": "e831fb8864f376fc2764318b8ac22c5df61a70cf"
+          }
+        },
+        {
+          "client_id": "820136300489-h47pkvc4e7ucl64ajqc2cfd2jh3be0o9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAacVuxJGo1i8A_imaSq8G4hl4zh4q1t0Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "820136300489-h47pkvc4e7ucl64ajqc2cfd2jh3be0o9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
